@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Cover Letter Generator
 
 A simple full-stack application that generates tailored cover letters using Google Gemini and can personalize them from an uploaded PDF resume.
@@ -81,3 +82,6 @@ git remote add origin YOUR_GITHUB_REPOSITORY_URL
 git push -u origin main
 ```
 Check `git status` and the staged file list before pushing. Never commit the real `.env` file.
+=======
+# Ai-cover-letter
+>>>>>>> 009ac0605415d421f288f0cda6cc1e2bbf517c54
